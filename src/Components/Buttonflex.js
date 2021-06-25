@@ -16,7 +16,7 @@ export default function Buttonflex() {
                     <Col md={8}>
                         <Form.Control type="text" placeholder="type your note" />        
                      </Col>
-                    <Col md={4} className="d-flex ">
+                    <Col md={4} className="d-flex flex-fill  ">
                         <Button variant="primary">
                             Add
                         </Button>
